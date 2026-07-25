@@ -11086,31 +11086,41 @@ export const conditions: Condition[] = [
     {
         id: 1159,
         name: {
+            cn: "斗士之怒",
             kr: "퓨리 오브 더 버서커",
+            tw: "狂怒意志狀態",
         },
     },
     {
         id: 1160,
         name: {
+            cn: "축복의 공예품: 코르플레의 나팔",
             kr: "축복의 공예품: 코르플레의 나팔",
+            tw: "축복의 공예품: 코르플레의 나팔",
         },
     },
     {
         id: 1161,
         name: {
+            cn: "灵线织网",
             kr: "와이어 웹",
+            tw: "弦音編織",
         },
     },
     {
         id: 1162,
         name: {
+            cn: "灵线织网持续伤害",
             kr: "와이어 웹 도트 대미지",
+            tw: "弦音編織圓點傷害",
         },
     },
     {
         id: 1163,
         name: {
+            cn: "猎踪踏影",
             kr: "트래킹 스텝",
+            tw: "律動步伐",
         },
     },
     {
@@ -11146,13 +11156,17 @@ export const conditions: Condition[] = [
     {
         id: 1167,
         name: {
+            cn: "旋律操纵师连接效果",
             kr: "멜로딕 퍼피티어 링크 효과",
+            tw: "旋律人偶師連結效果",
         },
     },
     {
         id: 1168,
         name: {
+            cn: "移动速度增加",
             kr: "이동 속도 증가",
+            tw: "移動速度增加",
         },
     },
     {
@@ -11189,6 +11203,7 @@ export const conditions: Condition[] = [
         id: 1174,
         name: {
             kr: "퓨리어스 앱솔루트",
+            tw: "퓨리어스 앱솔루트",
         },
     },
     {
@@ -11258,18 +11273,24 @@ export const conditions: Condition[] = [
     {
         id: 1185,
         name: {
+            cn: "咚咚全能锁",
+            kr: "햄 올마이티 락",
             tw: "全能火腿搖滾",
         },
     },
     {
         id: 1186,
         name: {
-            tw: "全能鼠鼠強化確認",
+            cn: "咚咚肾上腺素",
+            kr: "햄 아드레날린",
+            tw: "全能鼠鼠跺腳",
         },
     },
     {
         id: 1187,
         name: {
+            cn: "咚咚强化增益",
+            kr: "햄 부스트 버프",
             tw: "全能火腿強化增益",
         },
     },
@@ -11334,6 +11355,12 @@ export const conditions: Condition[] = [
         },
     },
     {
+        id: 1200,
+        name: {
+            tw: "自動修理 (尊貴)",
+        },
+    },
+    {
         id: 1201,
         name: {
             kr: "기폭 마력탄",
@@ -11342,7 +11369,15 @@ export const conditions: Condition[] = [
     {
         id: 1202,
         name: {
+            cn: "强化生命",
+            kr: "부스트 라이프",
             tw: "全能火腿強化確認",
+        },
+    },
+    {
+        id: 1203,
+        name: {
+            tw: "自動藥水(尊)(",
         },
     },
     {
@@ -11396,7 +11431,15 @@ export const conditions: Condition[] = [
     {
         id: 1225,
         name: {
-            tw: "火腿增益",
+            cn: "超燃咚咚",
+            kr: "햄 버닝",
+            tw: "種子燃燒",
+        },
+    },
+    {
+        id: 1254,
+        name: {
+            kr: "스노우스톰",
         },
     },
     {
@@ -12744,5 +12787,5 @@ export const conditions: Condition[] = [
             kr: "페이탈 크러시 스킬 강화 마기그래프",
             tw: "星魂卡陣技能強化瑪奇魔法陣",
         },
-    },
+    }
 ];
